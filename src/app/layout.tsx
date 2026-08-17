@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Carolina Hot Chicken",
     description: "Pick your heat. Accept your fate.",
-    images: ["/hero-hot-chicken.png"]
+    images: ["https://raw.githubusercontent.com/0Jsnipes/carolina-hot-chicken-demo/main/public/hero-hot-chicken.webp"]
   }
 };
 
