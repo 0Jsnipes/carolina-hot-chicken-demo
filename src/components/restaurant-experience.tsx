@@ -165,7 +165,7 @@ export function RestaurantExperience() {
       </header>
 
       <section className="hero" id="top">
-        <Image className="hero-image" src="https://raw.githubusercontent.com/0Jsnipes/carolina-hot-chicken-demo/main/public/hero-hot-chicken.png" alt="Crispy hot chicken sandwich and tenders" fill priority sizes="100vw" />
+        <Image className="hero-image" src="https://raw.githubusercontent.com/0Jsnipes/carolina-hot-chicken-demo/main/public/hero-hot-chicken.webp" alt="Crispy hot chicken sandwich and tenders" fill priority sizes="100vw" />
         <div className="hero-shade" />
         <div className="hero-copy">
           <div className="eyebrow"><span>North Myrtle Beach</span><span>2800 Hwy 17 S</span></div>
